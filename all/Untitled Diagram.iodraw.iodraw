@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8AXCodie8hkwbxLH7GSQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A61lUI6MsNd30aHrp6vz-1" target="8AXCodie8hkwbxLH7GSQ-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="A61lUI6MsNd30aHrp6vz-1" value="&amp;nbsp;LSTM Workload Prediction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="110" height="40" as="geometry" />
         </mxCell>
@@ -24,6 +21,12 @@
         </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-3" value="DQN VM placement &amp;amp; migration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="120" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8AXCodie8hkwbxLH7GSQ-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389" y="152" as="sourcePoint" />
+            <mxPoint x="389" y="191" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
