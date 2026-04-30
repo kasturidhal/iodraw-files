@@ -40,6 +40,9 @@
             <mxPoint x="381" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8AXCodie8hkwbxLH7GSQ-10" value="3- Energy Aware Task Scheduling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="212" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
