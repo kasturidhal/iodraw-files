@@ -28,7 +28,7 @@
             <mxPoint x="381" y="199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8AXCodie8hkwbxLH7GSQ-7" value="Step 3- Energy Aware Task Scheduling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8AXCodie8hkwbxLH7GSQ-7" value="Step 3- Energy Aware Task Scheduling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="320" y="201" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-8" value="Optimal Action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
             <mxPoint x="381" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8AXCodie8hkwbxLH7GSQ-10" value="Hot State update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8AXCodie8hkwbxLH7GSQ-10" value="Hot State update" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="320" y="279" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-11" value="New Allocation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
