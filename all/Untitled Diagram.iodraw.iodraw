@@ -28,13 +28,8 @@
             <mxPoint x="381" y="199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8AXCodie8hkwbxLH7GSQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="8AXCodie8hkwbxLH7GSQ-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-7" value="Step 3- Energy Aware Task Scheduling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="201" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="201" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-8" value="Optimal Action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="168" width="94" height="30" as="geometry" />
