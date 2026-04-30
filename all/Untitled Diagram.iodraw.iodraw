@@ -28,8 +28,8 @@
             <mxPoint x="381" y="199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8AXCodie8hkwbxLH7GSQ-7" value="DQN VM placement &amp;amp; migration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="131" width="110" height="40" as="geometry" />
+        <mxCell id="8AXCodie8hkwbxLH7GSQ-7" value="Energy Aware Task Scheduling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="201" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
