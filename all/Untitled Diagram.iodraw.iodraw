@@ -32,7 +32,7 @@
           <mxGeometry x="320" y="201" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-8" value="Optimal Action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="396" y="168" width="60" height="30" as="geometry" />
+          <mxGeometry x="396" y="168" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
