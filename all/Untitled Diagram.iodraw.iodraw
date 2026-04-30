@@ -19,7 +19,7 @@
         <mxCell id="8AXCodie8hkwbxLH7GSQ-2" value="Predicted Load" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="394" y="83" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8AXCodie8hkwbxLH7GSQ-3" value="Step 2- DQN VM placement &amp;amp; migration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8AXCodie8hkwbxLH7GSQ-3" value="Step 2- DQN VM placement &amp;amp; migration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
           <mxGeometry x="319" y="120" width="161" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
