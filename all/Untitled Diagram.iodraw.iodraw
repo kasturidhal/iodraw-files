@@ -16,6 +16,9 @@
             <mxPoint x="380" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3jfZ2GALQj1367tFAQW6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8AXCodie8hkwbxLH7GSQ-2" target="8AXCodie8hkwbxLH7GSQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-2" value="Predicted Load" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="387" y="83" width="100" height="30" as="geometry" />
         </mxCell>
