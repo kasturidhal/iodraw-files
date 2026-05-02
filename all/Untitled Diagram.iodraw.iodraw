@@ -23,7 +23,7 @@
           <mxGeometry x="387" y="84" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-3" value="Step 2- DQN VM placement &amp;amp; migration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;spacing=1;fontSize=10;container=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="126" width="240" height="30" as="geometry" />
+          <mxGeometry x="290" y="131" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.422;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="8AXCodie8hkwbxLH7GSQ-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-7" value="Step 3- Energy Aware Task Scheduling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="320" y="202" width="160" height="40" as="geometry" />
+          <mxGeometry x="285" y="207" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-8" value="Optimal Action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="387" y="169" width="100" height="30" as="geometry" />
