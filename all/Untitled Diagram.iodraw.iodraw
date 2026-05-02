@@ -10,10 +10,10 @@
         <mxCell id="A61lUI6MsNd30aHrp6vz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="A61lUI6MsNd30aHrp6vz-1" target="A61lUI6MsNd30aHrp6vz-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A61lUI6MsNd30aHrp6vz-3" value="" style="endArrow=classic;html=1;rounded=0;spacing=1;fontSize=10;entryX=0.417;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="8AXCodie8hkwbxLH7GSQ-3">
+        <mxCell id="A61lUI6MsNd30aHrp6vz-3" value="" style="endArrow=classic;html=1;rounded=0;spacing=1;fontSize=10;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="382" y="74" as="sourcePoint" />
-            <mxPoint x="380" y="121" as="targetPoint" />
+            <mxPoint x="380" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8AXCodie8hkwbxLH7GSQ-2" value="Predicted Load" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=1;fontSize=10;" parent="1" vertex="1">
@@ -72,9 +72,6 @@
             <mxPoint x="379" y="313" as="sourcePoint" />
             <mxPoint x="380" y="361" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3jfZ2GALQj1367tFAQW6-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="406" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
