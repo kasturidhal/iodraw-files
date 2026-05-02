@@ -31,8 +31,8 @@
             <mxPoint x="399" y="151" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w8hV58Lx0YhqoJGY5AbO-5" value="Optimal Action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="w8hV58Lx0YhqoJGY5AbO-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Optimal Action&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="289" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
