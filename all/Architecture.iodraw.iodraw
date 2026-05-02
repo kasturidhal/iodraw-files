@@ -40,6 +40,9 @@
         <mxCell id="OHaz1ua_esomAr-HglbS-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;VM1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="442" y="190" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="OHaz1ua_esomAr-HglbS-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;VM1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
